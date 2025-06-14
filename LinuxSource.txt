@@ -1032,7 +1032,7 @@ function LinuxLib.Tab(config)
         
         local BtnFrame = Linux.Instance("Frame", {
             Parent = Container,
-            BackgroundColor3 = Color3.fromRGB(18, 18, 18),
+            BackgroundColor3 = Color3.fromRGB(21, 21, 21),
             BorderColor3 = Color3.fromRGB(39, 39, 42),
             BorderSizePixel = 0,
             Size = UDim2.new(1, -8, 0, 36),
@@ -1103,7 +1103,7 @@ function LinuxLib.Tab(config)
         
         local Toggle = Linux.Instance("Frame", {
             Parent = Container,
-            BackgroundColor3 = Color3.fromRGB(18, 18, 18),
+            BackgroundColor3 = Color3.fromRGB(21, 21, 21),
             BorderColor3 = Color3.fromRGB(39, 39, 42),
             BorderSizePixel = 0,
             Size = UDim2.new(1, -8, 0, 36),
@@ -1245,7 +1245,7 @@ function LinuxLib.Tab(config)
         
         local Dropdown = Linux.Instance("Frame", {
             Parent = Container,
-            BackgroundColor3 = Color3.fromRGB(18, 18, 18),
+            BackgroundColor3 = Color3.fromRGB(21, 21, 21),
             BorderColor3 = Color3.fromRGB(39, 39, 42),
             BorderSizePixel = 0,
             Size = UDim2.new(1, -8, 0, 36),
@@ -1334,7 +1334,7 @@ function LinuxLib.Tab(config)
         
         local DropFrame = Linux.Instance("Frame", {
             Parent = Container,
-            BackgroundColor3 = Color3.fromRGB(18, 18, 18),
+            BackgroundColor3 = Color3.fromRGB(21, 21, 21),
             BorderColor3 = Color3.fromRGB(39, 39, 42),
             BorderSizePixel = 0,
             Size = UDim2.new(1, -8, 0, 0),
@@ -1584,7 +1584,7 @@ function LinuxLib.Tab(config)
         
         local Slider = Linux.Instance("Frame", {
             Parent = Container,
-            BackgroundColor3 = Color3.fromRGB(18, 18, 18),
+            BackgroundColor3 = Color3.fromRGB(21, 21, 21),
             BorderSizePixel = 0,
             Size = UDim2.new(1, -8, 0, 42),
             ZIndex = 1,
@@ -1830,7 +1830,7 @@ function LinuxLib.Tab(config)
         
         local Input = Linux.Instance("Frame", {
             Parent = Container,
-            BackgroundColor3 = Color3.fromRGB(18, 18, 18),
+            BackgroundColor3 = Color3.fromRGB(21, 21, 21),
             BorderColor3 = Color3.fromRGB(39, 39, 42),
             BorderSizePixel = 0,
             Size = UDim2.new(1, -8, 0, 36),
@@ -2048,7 +2048,7 @@ function LinuxLib.Tab(config)
         
         local LabelFrame = Linux.Instance("Frame", {
             Parent = Container,
-            BackgroundColor3 = Color3.fromRGB(18, 18, 18),
+            BackgroundColor3 = Color3.fromRGB(21, 21, 21),
             BorderColor3 = Color3.fromRGB(39, 39, 42),
             BorderSizePixel = 0,
             Size = UDim2.new(1, -8, 0, 36),
@@ -2186,7 +2186,7 @@ function LinuxLib.Tab(config)
         
         local ParagraphFrame = Linux.Instance("Frame", {
             Parent = Container,
-            BackgroundColor3 = Color3.fromRGB(18, 18, 18),
+            BackgroundColor3 = Color3.fromRGB(21, 21, 21),
             BorderColor3 = Color3.fromRGB(39, 39, 42),
             BorderSizePixel = 0,
             Size = UDim2.new(1, -8, 0, 0),
@@ -2342,7 +2342,7 @@ function LinuxLib.Tab(config)
         
         local KeybindFrame = Linux.Instance("Frame", {
             Parent = Container,
-            BackgroundColor3 = Color3.fromRGB(18, 18, 18),
+            BackgroundColor3 = Color3.fromRGB(21, 21, 21),
             BorderSizePixel = 0,
             Size = UDim2.new(1, -8, 0, 36),
             ZIndex = 1,
@@ -2471,7 +2471,7 @@ function LinuxLib.Tab(config)
         
         local ColorpickerFrame = Linux.Instance("Frame", {
             Parent = Container,
-            BackgroundColor3 = Color3.fromRGB(18, 18, 18),
+            BackgroundColor3 = Color3.fromRGB(21, 21, 21),
             BorderColor3 = Color3.fromRGB(39, 39, 42),
             BorderSizePixel = 0,
             Size = UDim2.new(1, -8, 0, 36),
